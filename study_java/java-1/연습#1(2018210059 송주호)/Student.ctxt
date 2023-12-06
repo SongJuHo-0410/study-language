@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ \uD559\uC0DD\ \uAC1D\uCCB4\uB97C\ \uB098\uD0C0\uB0B4\uB294\ \uD074\uB798\uC2A4\r\n\ \r\n\ @author\ (2018210059\ \uC1A1\uC8FC\uD638)\r\n\ @version\ (2022.03.11)\r\n
+comment1.params=n\ s
+comment1.target=Student(java.lang.String,\ int)
+comment1.text=\r\n\ Student\ \uD074\uB798\uC2A4\uC758\ \uAC1D\uCCB4\ \uC0DD\uC131\uC790\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ \uC774\uB984\uC744\ \uB300\uB2F5\uD574\uC8FC\uB294\ \uB3D9\uC791(\uBA54\uC18C\uB4DC\ method)\r\n\ \r\n\ @return\ \ \ \ \ name\r\n
+comment3.params=
+comment3.target=int\ getScore()
+comment3.text=\r\n\ \uC131\uC801\uC744\ \uB300\uB2F5\uD574\uC8FC\uB294\ \uBA54\uC18C\uB4DC\r\n\ \r\n\ @return\ \ \ \ \ score\r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Add
+comment0.text=\r\n\ \uC5EC\uAE30\uC5D0\ Add\ \uD074\uB798\uC2A4\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC2ED\uC2DC\uC624.\r\n\ \r\n\ @author\ (\uC791\uC131\uC790\ \uC774\uB984)\ \r\n\ @version\ (\uBC84\uC804\uBC88\uD638\uB098\ \uB0A0\uC9DC)\r\n
+comment1.params=a\ b
+comment1.target=Add(int,\ int)
+comment1.text=\r\n\ Add\ \uD074\uB798\uC2A4\uC758\ \uAC1D\uCCB4\ \uC0DD\uC131\uC790\r\n
+comment2.params=
+comment2.target=int\ calculate()
+comment2.text=\r\n\ \uC608\uC81C\ \uBA54\uC18C\uB4DC\ -\ \uC774\ \uC8FC\uC11D\uC744\ \uC0AC\uC6A9\uC790\uC5D0\ \uB9DE\uAC8C\ \uBC14\uAFB8\uC2ED\uC2DC\uC624\r\n\ \r\n\ \r\n\ @return\ \ \ \ \r\n
+comment3.params=a\ b
+comment3.target=void\ setValue(int,\ int)
+comment3.text=\r\n\ \uC608\uC81C\ \uBA54\uC18C\uB4DC\ -\ \uC774\ \uC8FC\uC11D\uC744\ \uC0AC\uC6A9\uC790\uC5D0\ \uB9DE\uAC8C\ \uBC14\uAFB8\uC2ED\uC2DC\uC624\r\n\ \r\n\ \r\n\ @return\ \ \ \ \r\n
+numComments=4

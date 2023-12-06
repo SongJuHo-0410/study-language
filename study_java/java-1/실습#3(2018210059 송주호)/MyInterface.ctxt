@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MyInterface
+comment0.text=\r\n\ \ \ \uC778\uD130\uD398\uC774\uC2A4\ MyInterface\ -\ \uCD94\uC0C1\uBA54\uC18C\uB4DC\ calculate()\uB97C\ \uD1B5\uD574\ \uB2E4\uD615\uC131\uC744\ \uC81C\uACF5\uD569\uB2C8\uB2E4.\r\n\ \r\n\ @author\ (2018210059\ \uC1A1\uC8FC\uD638)\ \r\n\ @version\ (20220605)\r\n
+comment1.params=
+comment1.target=int\ calculate()
+numComments=2

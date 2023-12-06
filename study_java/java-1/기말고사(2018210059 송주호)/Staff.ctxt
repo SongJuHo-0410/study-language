@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Staff
+comment0.text=\r\n\ \uC5EC\uAE30\uC5D0\ Staff\ \uD074\uB798\uC2A4\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC2ED\uC2DC\uC624.\r\n\ \r\n\ @author\ (2018210059\ \uC1A1\uC8FC\uD638)\ \r\n\ @version\ (20220610)\r\n
+comment1.params=name\ salary
+comment1.target=Staff(java.lang.String,\ int)
+comment1.text=\r\n\ Staff\ \uD074\uB798\uC2A4\uC758\ \uAC1D\uCCB4\ \uC0DD\uC131\uC790\r\n
+comment2.params=
+comment2.target=double\ pay()
+comment2.text=\r\n\ \uC608\uC81C\ \uBA54\uC18C\uB4DC\ -\ \uC774\ \uC8FC\uC11D\uC744\ \uC0AC\uC6A9\uC790\uC5D0\ \uB9DE\uAC8C\ \uBC14\uAFB8\uC2ED\uC2DC\uC624\r\n\ \r\n\ @param\ \ y\ \ \ \uBA54\uC18C\uB4DC\uC758\ \uC608\uC81C\ \uB9E4\uAC1C\uBCC0\uC218\r\n\ @return\ \ \ \ \ x\ \uB354\uD558\uAE30\ y\ \r\n
+comment3.params=
+comment3.target=void\ say()
+comment3.text=\r\n\ \uC608\uC81C\ \uBA54\uC18C\uB4DC\ -\ \uC774\ \uC8FC\uC11D\uC744\ \uC0AC\uC6A9\uC790\uC5D0\ \uB9DE\uAC8C\ \uBC14\uAFB8\uC2ED\uC2DC\uC624\r\n\ \r\n\ @param\ \ y\ \ \ \uBA54\uC18C\uB4DC\uC758\ \uC608\uC81C\ \uB9E4\uAC1C\uBCC0\uC218\r\n\ @return\ \ \ \ \ x\ \uB354\uD558\uAE30\ y\ \r\n
+numComments=4

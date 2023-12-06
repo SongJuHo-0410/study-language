@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ChatServer
+comment1.params=
+comment1.target=ChatServer()
+comment2.params=
+comment2.target=void\ setupConnection()
+comment3.params=string
+comment3.target=void\ handleError(java.lang.String)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
