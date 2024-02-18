@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git_hub\\study_language\\study_c#\\repos\\3-3\\3-3.csproj",
+      "projectUniqueName": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\3-3\\3-3.csproj",
       "projectName": "3-3",
-      "projectPath": "D:\\git_hub\\study_language\\study_c#\\repos\\3-3\\3-3.csproj",
+      "projectPath": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\3-3\\3-3.csproj",
       "packagesPath": "C:\\Users\\sojh0\\.nuget\\packages\\",
-      "outputPath": "D:\\git_hub\\study_language\\study_c#\\repos\\3-3\\obj\\",
+      "outputPath": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\3-3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git_hub\\study_language\\study_c#\\repos\\FloatingPoint\\FloatingPoint.csproj": {}
+    "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\FloatingPoint\\FloatingPoint.csproj": {}
   },
   "projects": {
-    "D:\\git_hub\\study_language\\study_c#\\repos\\FloatingPoint\\FloatingPoint.csproj": {
+    "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\FloatingPoint\\FloatingPoint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git_hub\\study_language\\study_c#\\repos\\FloatingPoint\\FloatingPoint.csproj",
+        "projectUniqueName": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\FloatingPoint\\FloatingPoint.csproj",
         "projectName": "FloatingPoint",
-        "projectPath": "D:\\git_hub\\study_language\\study_c#\\repos\\FloatingPoint\\FloatingPoint.csproj",
+        "projectPath": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\FloatingPoint\\FloatingPoint.csproj",
         "packagesPath": "C:\\Users\\sojh0\\.nuget\\packages\\",
-        "outputPath": "D:\\git_hub\\study_language\\study_c#\\repos\\FloatingPoint\\obj\\",
+        "outputPath": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\FloatingPoint\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

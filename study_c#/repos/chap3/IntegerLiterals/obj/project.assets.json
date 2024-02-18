@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git_hub\\study_language\\study_c#\\repos\\IntegerLiterals\\IntegerLiterals.csproj",
+      "projectUniqueName": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\IntegerLiterals\\IntegerLiterals.csproj",
       "projectName": "IntegerLiterals",
-      "projectPath": "D:\\git_hub\\study_language\\study_c#\\repos\\IntegerLiterals\\IntegerLiterals.csproj",
+      "projectPath": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\IntegerLiterals\\IntegerLiterals.csproj",
       "packagesPath": "C:\\Users\\sojh0\\.nuget\\packages\\",
-      "outputPath": "D:\\git_hub\\study_language\\study_c#\\repos\\IntegerLiterals\\obj\\",
+      "outputPath": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\IntegerLiterals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sq4KzXmGGFGNOYsN5N0HlYTR3qc5XG2Lirfa8ZYMFHLhtPe/KzuePe9+pBhDFm13sxttmSxoGiiO+rg3iDaqdg==",
+  "dgSpecHash": "boXePobTVx76mFcG3+aJnWTTg1HjOrKkrp4zhpfdye0gYGnWafxP+Vjr+V+ATbyUKWqM1ZBP5bp2fnKfn+gQTw==",
   "success": true,
-  "projectFilePath": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\IntegralTypes.csproj",
+  "projectFilePath": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\IntegralTypes\\IntegralTypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

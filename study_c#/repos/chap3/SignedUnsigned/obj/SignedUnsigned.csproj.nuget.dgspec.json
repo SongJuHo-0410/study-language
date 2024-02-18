@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git_hub\\study_language\\study_c#\\repos\\SignedUnsigned\\SignedUnsigned.csproj": {}
+    "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\SignedUnsigned\\SignedUnsigned.csproj": {}
   },
   "projects": {
-    "D:\\git_hub\\study_language\\study_c#\\repos\\SignedUnsigned\\SignedUnsigned.csproj": {
+    "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\SignedUnsigned\\SignedUnsigned.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git_hub\\study_language\\study_c#\\repos\\SignedUnsigned\\SignedUnsigned.csproj",
+        "projectUniqueName": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\SignedUnsigned\\SignedUnsigned.csproj",
         "projectName": "SignedUnsigned",
-        "projectPath": "D:\\git_hub\\study_language\\study_c#\\repos\\SignedUnsigned\\SignedUnsigned.csproj",
+        "projectPath": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\SignedUnsigned\\SignedUnsigned.csproj",
         "packagesPath": "C:\\Users\\sojh0\\.nuget\\packages\\",
-        "outputPath": "D:\\git_hub\\study_language\\study_c#\\repos\\SignedUnsigned\\obj\\",
+        "outputPath": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\SignedUnsigned\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
