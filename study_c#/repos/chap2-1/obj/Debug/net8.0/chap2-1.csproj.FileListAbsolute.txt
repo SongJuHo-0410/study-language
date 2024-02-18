@@ -1,0 +1,14 @@
+C:\Users\sojh0\source\repos\chap2-1\bin\Debug\net8.0\chap2-1.exe
+C:\Users\sojh0\source\repos\chap2-1\bin\Debug\net8.0\chap2-1.deps.json
+C:\Users\sojh0\source\repos\chap2-1\bin\Debug\net8.0\chap2-1.runtimeconfig.json
+C:\Users\sojh0\source\repos\chap2-1\bin\Debug\net8.0\chap2-1.dll
+C:\Users\sojh0\source\repos\chap2-1\bin\Debug\net8.0\chap2-1.pdb
+C:\Users\sojh0\source\repos\chap2-1\obj\Debug\net8.0\chap2-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sojh0\source\repos\chap2-1\obj\Debug\net8.0\chap2-1.AssemblyInfoInputs.cache
+C:\Users\sojh0\source\repos\chap2-1\obj\Debug\net8.0\chap2-1.AssemblyInfo.cs
+C:\Users\sojh0\source\repos\chap2-1\obj\Debug\net8.0\chap2-1.csproj.CoreCompileInputs.cache
+C:\Users\sojh0\source\repos\chap2-1\obj\Debug\net8.0\chap2-1.dll
+C:\Users\sojh0\source\repos\chap2-1\obj\Debug\net8.0\refint\chap2-1.dll
+C:\Users\sojh0\source\repos\chap2-1\obj\Debug\net8.0\chap2-1.pdb
+C:\Users\sojh0\source\repos\chap2-1\obj\Debug\net8.0\chap2-1.genruntimeconfig.cache
+C:\Users\sojh0\source\repos\chap2-1\obj\Debug\net8.0\ref\chap2-1.dll

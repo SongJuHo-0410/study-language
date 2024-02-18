@@ -1,0 +1,14 @@
+C:\Users\sojh0\source\repos\chap2-2\bin\Debug\net8.0\chap2-2.exe
+C:\Users\sojh0\source\repos\chap2-2\bin\Debug\net8.0\chap2-2.deps.json
+C:\Users\sojh0\source\repos\chap2-2\bin\Debug\net8.0\chap2-2.runtimeconfig.json
+C:\Users\sojh0\source\repos\chap2-2\bin\Debug\net8.0\chap2-2.dll
+C:\Users\sojh0\source\repos\chap2-2\bin\Debug\net8.0\chap2-2.pdb
+C:\Users\sojh0\source\repos\chap2-2\obj\Debug\net8.0\chap2-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sojh0\source\repos\chap2-2\obj\Debug\net8.0\chap2-2.AssemblyInfoInputs.cache
+C:\Users\sojh0\source\repos\chap2-2\obj\Debug\net8.0\chap2-2.AssemblyInfo.cs
+C:\Users\sojh0\source\repos\chap2-2\obj\Debug\net8.0\chap2-2.csproj.CoreCompileInputs.cache
+C:\Users\sojh0\source\repos\chap2-2\obj\Debug\net8.0\chap2-2.dll
+C:\Users\sojh0\source\repos\chap2-2\obj\Debug\net8.0\refint\chap2-2.dll
+C:\Users\sojh0\source\repos\chap2-2\obj\Debug\net8.0\chap2-2.pdb
+C:\Users\sojh0\source\repos\chap2-2\obj\Debug\net8.0\chap2-2.genruntimeconfig.cache
+C:\Users\sojh0\source\repos\chap2-2\obj\Debug\net8.0\ref\chap2-2.dll
