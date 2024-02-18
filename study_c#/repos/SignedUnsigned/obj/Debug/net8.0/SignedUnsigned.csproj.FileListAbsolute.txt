@@ -1,0 +1,15 @@
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.exe
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.deps.json
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.runtimeconfig.json
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.dll
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.pdb
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.AssemblyInfoInputs.cache
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.AssemblyInfo.cs
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.csproj.CoreCompileInputs.cache
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.sourcelink.json
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.dll
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\obj\Debug\net8.0\refint\SignedUnsigned.dll
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.pdb
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.genruntimeconfig.cache
+D:\git_hub\study_language\study_c#\repos\SignedUnsigned\obj\Debug\net8.0\ref\SignedUnsigned.dll

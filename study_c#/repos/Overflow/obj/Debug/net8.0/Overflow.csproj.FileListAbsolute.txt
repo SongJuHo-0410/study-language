@@ -1,0 +1,15 @@
+D:\git_hub\study_language\study_c#\repos\Overflow\bin\Debug\net8.0\Overflow.exe
+D:\git_hub\study_language\study_c#\repos\Overflow\bin\Debug\net8.0\Overflow.deps.json
+D:\git_hub\study_language\study_c#\repos\Overflow\bin\Debug\net8.0\Overflow.runtimeconfig.json
+D:\git_hub\study_language\study_c#\repos\Overflow\bin\Debug\net8.0\Overflow.dll
+D:\git_hub\study_language\study_c#\repos\Overflow\bin\Debug\net8.0\Overflow.pdb
+D:\git_hub\study_language\study_c#\repos\Overflow\obj\Debug\net8.0\Overflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_hub\study_language\study_c#\repos\Overflow\obj\Debug\net8.0\Overflow.AssemblyInfoInputs.cache
+D:\git_hub\study_language\study_c#\repos\Overflow\obj\Debug\net8.0\Overflow.AssemblyInfo.cs
+D:\git_hub\study_language\study_c#\repos\Overflow\obj\Debug\net8.0\Overflow.csproj.CoreCompileInputs.cache
+D:\git_hub\study_language\study_c#\repos\Overflow\obj\Debug\net8.0\Overflow.sourcelink.json
+D:\git_hub\study_language\study_c#\repos\Overflow\obj\Debug\net8.0\Overflow.dll
+D:\git_hub\study_language\study_c#\repos\Overflow\obj\Debug\net8.0\refint\Overflow.dll
+D:\git_hub\study_language\study_c#\repos\Overflow\obj\Debug\net8.0\Overflow.pdb
+D:\git_hub\study_language\study_c#\repos\Overflow\obj\Debug\net8.0\Overflow.genruntimeconfig.cache
+D:\git_hub\study_language\study_c#\repos\Overflow\obj\Debug\net8.0\ref\Overflow.dll

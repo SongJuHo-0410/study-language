@@ -1,0 +1,15 @@
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\bin\Debug\net8.0\FloatingPoint.exe
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\bin\Debug\net8.0\FloatingPoint.deps.json
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\bin\Debug\net8.0\FloatingPoint.runtimeconfig.json
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\bin\Debug\net8.0\FloatingPoint.dll
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\bin\Debug\net8.0\FloatingPoint.pdb
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\obj\Debug\net8.0\FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfoInputs.cache
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfo.cs
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\obj\Debug\net8.0\FloatingPoint.csproj.CoreCompileInputs.cache
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\obj\Debug\net8.0\FloatingPoint.sourcelink.json
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\obj\Debug\net8.0\FloatingPoint.dll
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\obj\Debug\net8.0\refint\FloatingPoint.dll
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\obj\Debug\net8.0\FloatingPoint.pdb
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\obj\Debug\net8.0\FloatingPoint.genruntimeconfig.cache
+D:\git_hub\study_language\study_c#\repos\FloatingPoint\obj\Debug\net8.0\ref\FloatingPoint.dll

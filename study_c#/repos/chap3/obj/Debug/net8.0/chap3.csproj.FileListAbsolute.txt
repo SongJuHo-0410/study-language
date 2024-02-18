@@ -1,0 +1,15 @@
+D:\git_hub\study_language\study_c#\repos\chap3\bin\Debug\net8.0\chap3.exe
+D:\git_hub\study_language\study_c#\repos\chap3\bin\Debug\net8.0\chap3.deps.json
+D:\git_hub\study_language\study_c#\repos\chap3\bin\Debug\net8.0\chap3.runtimeconfig.json
+D:\git_hub\study_language\study_c#\repos\chap3\bin\Debug\net8.0\chap3.dll
+D:\git_hub\study_language\study_c#\repos\chap3\bin\Debug\net8.0\chap3.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\obj\Debug\net8.0\chap3.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_hub\study_language\study_c#\repos\chap3\obj\Debug\net8.0\chap3.AssemblyInfoInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\obj\Debug\net8.0\chap3.AssemblyInfo.cs
+D:\git_hub\study_language\study_c#\repos\chap3\obj\Debug\net8.0\chap3.csproj.CoreCompileInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\obj\Debug\net8.0\chap3.sourcelink.json
+D:\git_hub\study_language\study_c#\repos\chap3\obj\Debug\net8.0\chap3.dll
+D:\git_hub\study_language\study_c#\repos\chap3\obj\Debug\net8.0\refint\chap3.dll
+D:\git_hub\study_language\study_c#\repos\chap3\obj\Debug\net8.0\chap3.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\obj\Debug\net8.0\chap3.genruntimeconfig.cache
+D:\git_hub\study_language\study_c#\repos\chap3\obj\Debug\net8.0\ref\chap3.dll
