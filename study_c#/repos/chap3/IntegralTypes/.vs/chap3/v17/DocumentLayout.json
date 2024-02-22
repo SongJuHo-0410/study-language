@@ -3,10 +3,16 @@
   "WorkspaceRootPath": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\IntegralTypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADD5EBE3-34C6-4A2E-A55C-1E55902D095B}|..\\BoxingUnboxing\\BoxingUnboxing.csproj|d:\\git_hub\\study_language\\study_c#\\repos\\chap3\\boxingunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41C725FF-3574-4220-8D02-019D81144315}|..\\3-1 practice\\3-1 practice.csproj|d:\\git_hub\\study_language\\study_c#\\repos\\chap3\\3-1 practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20CD9B49-842D-42D0-9D4F-6A8A4922E220}|..\\Object\\Object.csproj|d:\\git_hub\\study_language\\study_c#\\repos\\chap3\\object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF2CDAE1-F732-4EBE-8F21-4798FDCD3D5A}|..\\StringInterpolation\\StringInterpolation.csproj|d:\\git_hub\\study_language\\study_c#\\repos\\chap3\\stringinterpolation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F4A841-78C3-41AB-9591-2BDE2437502C}|..\\StringFormatDatetime\\StringFormatDatetime.csproj|d:\\git_hub\\study_language\\study_c#\\repos\\chap3\\stringformatdatetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A302AB2-D7AD-43C9-8300-4D15EB56EF91}|..\\StringFormatNumber\\StringFormatNumber.csproj|d:\\git_hub\\study_language\\study_c#\\repos\\chap3\\stringformatnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +32,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\BoxingUnboxing\\Program.cs",
-              "RelativeDocumentMoniker": "..\\BoxingUnboxing\\Program.cs",
-              "ToolTip": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\BoxingUnboxing\\Program.cs",
-              "RelativeToolTip": "..\\BoxingUnboxing\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "DocumentMoniker": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\3-1 practice\\Program.cs",
+              "RelativeDocumentMoniker": "..\\3-1 practice\\Program.cs",
+              "ToolTip": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\3-1 practice\\Program.cs",
+              "RelativeToolTip": "..\\3-1 practice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T13:26:27.653Z",
+              "WhenOpened": "2024-02-22T18:52:11.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\Object\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Object\\Program.cs",
-              "ToolTip": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\Object\\Program.cs",
-              "RelativeToolTip": "..\\Object\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "DocumentMoniker": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\StringInterpolation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StringInterpolation\\Program.cs",
+              "ToolTip": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\StringInterpolation\\Program.cs",
+              "RelativeToolTip": "..\\StringInterpolation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T12:13:46.062Z",
+              "WhenOpened": "2024-02-22T18:37:26.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\StringFormatDatetime\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StringFormatDatetime\\Program.cs",
+              "ToolTip": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\StringFormatDatetime\\Program.cs",
+              "RelativeToolTip": "..\\StringFormatDatetime\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T18:20:19.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\StringFormatNumber\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StringFormatNumber\\Program.cs",
+              "ToolTip": "D:\\git_hub\\study_language\\study_c#\\repos\\chap3\\StringFormatNumber\\Program.cs",
+              "RelativeToolTip": "..\\StringFormatNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T02:18:16.199Z",
               "EditorCaption": ""
             }
           ]

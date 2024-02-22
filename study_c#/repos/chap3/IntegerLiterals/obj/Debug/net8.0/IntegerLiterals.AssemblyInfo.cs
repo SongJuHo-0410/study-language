@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntegerLiterals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20cce7c70891dfd27b20564df565b6eaf5d0cdd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7421b69db8c475e7e1f929f936cf01b005a104a")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntegerLiterals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntegerLiterals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

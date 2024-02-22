@@ -1,0 +1,15 @@
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\bin\Debug\net8.0\IntegralConversion.exe
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\bin\Debug\net8.0\IntegralConversion.deps.json
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\bin\Debug\net8.0\IntegralConversion.runtimeconfig.json
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\bin\Debug\net8.0\IntegralConversion.dll
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\bin\Debug\net8.0\IntegralConversion.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\obj\Debug\net8.0\IntegralConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\obj\Debug\net8.0\IntegralConversion.AssemblyInfoInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\obj\Debug\net8.0\IntegralConversion.AssemblyInfo.cs
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\obj\Debug\net8.0\IntegralConversion.csproj.CoreCompileInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\obj\Debug\net8.0\IntegralConversion.sourcelink.json
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\obj\Debug\net8.0\IntegralConversion.dll
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\obj\Debug\net8.0\refint\IntegralConversion.dll
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\obj\Debug\net8.0\IntegralConversion.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\obj\Debug\net8.0\IntegralConversion.genruntimeconfig.cache
+D:\git_hub\study_language\study_c#\repos\chap3\IntegralConversion\obj\Debug\net8.0\ref\IntegralConversion.dll

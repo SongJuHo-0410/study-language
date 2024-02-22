@@ -1,0 +1,15 @@
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\bin\Debug\net8.0\FlaoatConversion.exe
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\bin\Debug\net8.0\FlaoatConversion.deps.json
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\bin\Debug\net8.0\FlaoatConversion.runtimeconfig.json
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\bin\Debug\net8.0\FlaoatConversion.dll
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\bin\Debug\net8.0\FlaoatConversion.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\obj\Debug\net8.0\FlaoatConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\obj\Debug\net8.0\FlaoatConversion.AssemblyInfoInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\obj\Debug\net8.0\FlaoatConversion.AssemblyInfo.cs
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\obj\Debug\net8.0\FlaoatConversion.csproj.CoreCompileInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\obj\Debug\net8.0\FlaoatConversion.sourcelink.json
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\obj\Debug\net8.0\FlaoatConversion.dll
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\obj\Debug\net8.0\refint\FlaoatConversion.dll
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\obj\Debug\net8.0\FlaoatConversion.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\obj\Debug\net8.0\FlaoatConversion.genruntimeconfig.cache
+D:\git_hub\study_language\study_c#\repos\chap3\FlaoatConversion\obj\Debug\net8.0\ref\FlaoatConversion.dll

@@ -1,0 +1,15 @@
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\bin\Debug\net8.0\3-2 practice.exe
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\bin\Debug\net8.0\3-2 practice.deps.json
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\bin\Debug\net8.0\3-2 practice.runtimeconfig.json
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\bin\Debug\net8.0\3-2 practice.dll
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\bin\Debug\net8.0\3-2 practice.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\obj\Debug\net8.0\3-2 practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\obj\Debug\net8.0\3-2 practice.AssemblyInfoInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\obj\Debug\net8.0\3-2 practice.AssemblyInfo.cs
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\obj\Debug\net8.0\3-2 practice.csproj.CoreCompileInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\obj\Debug\net8.0\3-2 practice.sourcelink.json
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\obj\Debug\net8.0\3-2 practice.dll
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\obj\Debug\net8.0\refint\3-2 practice.dll
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\obj\Debug\net8.0\3-2 practice.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\obj\Debug\net8.0\3-2 practice.genruntimeconfig.cache
+D:\git_hub\study_language\study_c#\repos\chap3\3-2 practice\obj\Debug\net8.0\ref\3-2 practice.dll

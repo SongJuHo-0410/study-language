@@ -1,0 +1,15 @@
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\bin\Debug\net8.0\Enum.exe
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\bin\Debug\net8.0\Enum.deps.json
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\bin\Debug\net8.0\Enum.dll
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\bin\Debug\net8.0\Enum.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\obj\Debug\net8.0\Enum.sourcelink.json
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\obj\Debug\net8.0\Enum.dll
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\obj\Debug\net8.0\refint\Enum.dll
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\obj\Debug\net8.0\Enum.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+D:\git_hub\study_language\study_c#\repos\chap3\Enum\obj\Debug\net8.0\ref\Enum.dll

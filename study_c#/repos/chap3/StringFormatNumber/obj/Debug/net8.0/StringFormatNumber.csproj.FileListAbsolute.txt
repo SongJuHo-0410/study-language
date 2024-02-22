@@ -1,0 +1,15 @@
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.exe
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.deps.json
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.runtimeconfig.json
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.dll
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.AssemblyInfoInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.AssemblyInfo.cs
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.csproj.CoreCompileInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.sourcelink.json
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.dll
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\obj\Debug\net8.0\refint\StringFormatNumber.dll
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.genruntimeconfig.cache
+D:\git_hub\study_language\study_c#\repos\chap3\StringFormatNumber\obj\Debug\net8.0\ref\StringFormatNumber.dll

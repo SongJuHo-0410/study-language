@@ -1,0 +1,15 @@
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\bin\Debug\net8.0\StringInterpolation.exe
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\bin\Debug\net8.0\StringInterpolation.deps.json
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\bin\Debug\net8.0\StringInterpolation.runtimeconfig.json
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\bin\Debug\net8.0\StringInterpolation.dll
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\bin\Debug\net8.0\StringInterpolation.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\obj\Debug\net8.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\obj\Debug\net8.0\StringInterpolation.AssemblyInfoInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\obj\Debug\net8.0\StringInterpolation.AssemblyInfo.cs
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\obj\Debug\net8.0\StringInterpolation.csproj.CoreCompileInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\obj\Debug\net8.0\StringInterpolation.sourcelink.json
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\obj\Debug\net8.0\StringInterpolation.dll
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\obj\Debug\net8.0\refint\StringInterpolation.dll
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\obj\Debug\net8.0\StringInterpolation.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\obj\Debug\net8.0\StringInterpolation.genruntimeconfig.cache
+D:\git_hub\study_language\study_c#\repos\chap3\StringInterpolation\obj\Debug\net8.0\ref\StringInterpolation.dll

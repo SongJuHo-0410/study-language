@@ -1,0 +1,15 @@
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.exe
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.deps.json
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.runtimeconfig.json
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.dll
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.AssemblyInfoInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.AssemblyInfo.cs
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.csproj.CoreCompileInputs.cache
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.sourcelink.json
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.dll
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\obj\Debug\net8.0\refint\StringNumberConversion.dll
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.pdb
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.genruntimeconfig.cache
+D:\git_hub\study_language\study_c#\repos\chap3\StringNumberConversion\obj\Debug\net8.0\ref\StringNumberConversion.dll
